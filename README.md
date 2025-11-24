@@ -25,7 +25,7 @@ The Network Framework is designed to simplify building resilient microservices b
 
 - **Unified Client APIs**: Consistent interfaces for reactive (WebClient), blocking (HttpClient), and gRPC clients
 - **Code Generation**: Automatic implementation generation from annotated service interfaces
-- **Resilience Patterns**: Built-in circuit breakers and bulkheads via Resilience4j or Hystrix
+- **Resilience Patterns**: Built-in circuit breakers and bulkheads via Resilience4j, Hystrix and extendible
 - **Observability**: Automatic metrics collection with pluggable backends
 - **Spring Integration**: Seamless Spring Boot integration with auto-configuration
 
